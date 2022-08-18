@@ -1,5 +1,4 @@
 Flask==2.2.1
 gunicorn==20.1.0
-os
 numpy
 tensorflow
